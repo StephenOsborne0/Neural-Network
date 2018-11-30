@@ -1,0 +1,5 @@
+C:\Users\Ozzy\Documents\Visual Studio 2015\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.dll
+C:\Users\Ozzy\Documents\Visual Studio 2015\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+C:\Users\Ozzy\Documents\Visual Studio 2015\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csprojResolveAssemblyReference.cache
+C:\Users\Ozzy\Documents\Visual Studio 2015\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.dll
+C:\Users\Ozzy\Documents\Visual Studio 2015\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.pdb
